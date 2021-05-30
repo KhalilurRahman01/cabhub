@@ -1,0 +1,143 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start**/
+.menu {
+    margin-top: 20px;
+}
+.menu ul li a {
+    
+    padding: 2px 15px !important;
+    margin-top: 3px;
+}
+.Ch_img{
+      margin-top: 5rem !important;
+  }
+
+.ch_info h1 {
+    font-size: 37px;
+    font-weight: 900;
+}
+
+.ch_info h3{
+        font-size: 24px;
+
+}
+
+.ch_info p{
+    letter-spacing: 3px;
+ }
+.ch_txt {
+    padding-top: 7rem !important;
+}
+
+/*header end*/
+/*cab service*/
+
+.s_left {
+    padding: 20px;
+}
+.s_left h1 {
+    font-size: 23px;
+}
+.s_left h4 {
+    font-size: 25px;}
+.s_right {
+    width: 281px;
+}
+ .s_right {
+    margin-left: 12px;
+}
+/*cab service*/
+}
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start**/
+.menu {
+    margin-top: 20px;
+}
+.menu ul li a {
+    
+    padding: 2px 15px !important;
+    margin-top: 3px;
+}
+.Ch_img{
+      margin-top: 5rem !important;
+  }
+
+/*header end*/
+/*cab service*/
+.s_right {
+    
+    margin: auto;
+}
+
+
+.s_left h1 {
+    font-size: 34px;
+}
+
+
+/*cab service*/
+
+}
+
+ 
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start**/
+.menu {
+    margin-top: 20px;
+}
+.menu ul li a {
+    
+    padding: 2px 15px !important;
+    margin-top: 3px;
+}
+.Ch_img{
+      margin-top: 3rem !important;
+    position: relative;
+    top: 80px;
+
+}
+/*cab service*/
+.s_right {
+    
+    margin: auto;
+}
+
+
+
+/*cab service*/
+
+ }
+/*header end*/
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*cab service*/
+.s_right {
+    
+    margin-left: 6px;
+}
+
+
+
+
+/*cab service*/
+
+ }
+
+ /*Extra large devices (Extra large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+
+
+ }
+
+ /*Extra Extra large devices (Extra Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+
+
+ }

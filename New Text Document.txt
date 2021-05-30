@@ -1,0 +1,15 @@
+Home            About           Features            Blog 
+
+color:
+black--#000000  
+yellow---#ffc61a
+white----#ffffff
+ash---- #f5f4f2
+  font----Bold 700
+  black-900
+  regul-400
+
+  Name   When   Start   Choose Vehicle
+
+
+  Phone   Time   End
